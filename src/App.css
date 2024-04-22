@@ -13,10 +13,9 @@
 
 .sessao{
     padding: 0px 10px;
-    display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: small;
+    font-size: large;
     font-family: cursive;
     font-style: italic;
     color: rgb(90, 90, 90);
